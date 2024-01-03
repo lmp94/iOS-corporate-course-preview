@@ -22,7 +22,7 @@ Each student will work through one iOS Application throughout the course buildin
 For Detailed Agenda's (Samples): see the **Issues** Section. 
 For Coding Samples, 
 
-Samples will be provided with less detail that are not relevant for anyone who is not currently taking the course, i.e. due dates, discussion posts, videos of classes etc to protect privacy and anonymity of the students. Some slideshows may be paried down from word clouds, details, or other assignments only provided to paying students.  
+Samples will be provided with less detail that are not relevant for anyone who is not currently taking the course, i.e. due dates, discussion posts, videos of classes etc to protect privacy and anonymity of the students. Some slideshows may be paried down from word clouds, details, or other assignments only provided to paying students. Not all information will be shown in the sample, or all assignments, a few of different types will be dispalyed, hence the "sample". 
 
 ## Course Syllabus  
 This is typically over an 18 - 22 week course depending on class frequency. 
