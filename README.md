@@ -28,17 +28,18 @@ Samples will be provided with less detail that are not relevant for anyone who i
 This is typically over an 18 - 22 week course depending on class frequency. 
 
 ### Unit 1: Fundamental iOS Application Structure
-- **Section 1: MVC, MVP, MVVM, VIPER & CLEAN Architecture (includes SOLID Principles)** 
-- **Section 2: Creational, Behavioral & Structural Design Patterns **
-- **Section 3: Communication Patterns (Notifications, Delegates, and Callbacks)**
+This is a very information heavy unit. Other units are much more coding samples, practice, and in class workshops. 
+- **Section 1: MVC, MVP, MVVM, VIPER & CLEAN Architecture (includes SOLID Principles)** [PPT](https://docs.google.com/presentation/d/1Flu-wtBBkhokz9tbG5tOEuwzfwzO0WRQp3MS3ZXUXr8/edit?usp=share_link)
+- **Section 2: Creational, Behavioral & Structural Design Patterns** [PPT](https://docs.google.com/presentation/d/1G2Ljidci3CxOthf-KkYZr_4pbE1kT4noGzh9gsm7zh4/edit?usp=share_link)
+- **Section 3: Communication Patterns (Notifications, Delegates, and Callbacks)** [PPT](https://docs.google.com/presentation/d/1ew-poaxT3kIfn8HOYuWcJDoOiSwMXOdHWRlSZjjSz0Q/edit?usp=share_link)
 
 ## Unit 2: View Layout Composition, View Creation & iOS Fundamentals
-- **Section 1: iOS Development Structure (View Hierarchy, Protocols)**
-- **Section 2: View Layout Composition (Storyboard, programatic, compositional, and frame-based)**
-- **Section 3: iOS UI Creation (Creaing Your Own App)**
+- **Section 1: iOS Development Structure (View Hierarchy, Protocols)** This is a code based section, content can be found in specific issues and in workshop code. 
+- **Section 2: View Layout Composition (Storyboard, programatic, compositional, and frame-based)** [PPT](https://docs.google.com/presentation/d/1TT7omVJMPPt55fba3YOF8-2s87kCfQRjXUZpi4j8vbw/edit?usp=share_link)
+- **Section 3: iOS UI Creation (Creaing Your Own App)** This is a workshop based section. 
 
 ## Unit 3: Concurrency, Networking, & App Development
 This section is subject to changes based on students knowledge level, and need to know basic. The goal is to expose brand new develoeprs to the concept, ideas and nomeclature around core topics to allow them to ask the right questions.
-- **Unit 3, Section 1: Networking (JSON, HTTP Requests, etc) & Introduction to Memory Management**
-- **Unit 3, Section 2: Concurrency (Serial & Concurrent Queue Basics, Actors, Callbacks, Dispatch Queue)**
-- **Unit 3, Section 3: App Development (App Store Submission, Upkeep, etc)**
+- **Unit 3, Section 1: Networking (JSON, HTTP Requests, etc) & Introduction to Memory Management** [PPT](https://docs.google.com/presentation/d/1is0bX3Vu5R8KhWepDQOqlzvE7LSNi0sf0IKMHh6DdDs/edit?usp=share_link)
+- **Unit 3, Section 2: Concurrency (Serial & Concurrent Queue Basics, Actors, Callbacks, Dispatch Queue)** [PPT](https://docs.google.com/presentation/d/1SDNLkyNHFpDRbRVV47Q6eQWHEHVi-BJMi8JXnSauhfA/edit?usp=sharing)
+- **Unit 3, Section 3: App Development (App Store Submission, Upkeep, etc)** This is a workshop based section. 
