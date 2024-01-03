@@ -28,8 +28,8 @@ Samples will be provided with less detail that are not relevant for anyone who i
 This is typically over an 18 - 22 week course depending on class frequency. 
 
 ### Unit 1: Fundamental iOS Application Structure
-- **Section 1: MVC, MVP, MVVM, VIPER &  CLEAN Architecture**
-- **Section 2: Creational, Behavioral & Structural Design Patterns (including Software Design Principles)**
+- **Section 1: MVC, MVP, MVVM, VIPER & CLEAN Architecture (includes SOLID Principles)** 
+- **Section 2: Creational, Behavioral & Structural Design Patterns **
 - **Section 3: Communication Patterns (Notifications, Delegates, and Callbacks)**
 
 ## Unit 2: View Layout Composition, View Creation & iOS Fundamentals
